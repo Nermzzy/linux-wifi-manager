@@ -1,6 +1,4 @@
-Alright — here’s the updated README.md with a Linux Mint Quick Start section so someone can literally copy-paste and run your Wi-Fi manager without guessing anything.
 
----
 
 ````markdown
 # 🛜 Python Wi-Fi Manager for Linux
@@ -160,7 +158,7 @@ Connecting to MyHomeWiFi...
   nmcli radio wifi on
   ```
 
----
+
 
 ## 📝 TODO / Planned Features
 
@@ -180,13 +178,3 @@ MIT License — You’re free to use, modify, and share.
 
 Pull requests are welcome!
 If you have suggestions for improvement, feel free to open an issue or PR.
-
-```
-
----
-
-If you want, I can also make a `requirements.txt` and `install.sh` so that someone just runs `bash install.sh` and everything is installed in one go. That way it’s super beginner-proof.
-```
-
-
-generated with AI (chatgpt)
